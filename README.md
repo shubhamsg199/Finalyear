@@ -6,7 +6,7 @@
 
 -- mydata.txt file is continuously being monitored by the server.
 
--- script 1.sh is run as soon as it detects any changes in mydata.txt file.
+-- script 1.sh runs as soon as it detects any changes in mydata.txt file.
 
 -- script 1.sh creates the openstack user and assigns the default project, role and domain to the user.
 
