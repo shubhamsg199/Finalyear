@@ -10,4 +10,4 @@
 
 -- script 1.sh creates the openstack user and assigns the default project, role and domain to the user.
 
--- Hence, the user can Login anytime with the credentials/Password used while signing up on the Openstack Platform without any hassle.
+-- Hence, the user can Login anytime with the credentials/Password used while signing up on the Openstack Platform.
