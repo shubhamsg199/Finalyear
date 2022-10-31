@@ -1,6 +1,6 @@
 #Final year project on Openstack platform.
 
--- This repo contains all the files used for building the Signup page for the users to signup on the Openstack Cloud Platform.
+-- This repo contains all the files used for building the Signup page for the users to signup on the Openstack Cloud Platform in a approapriate way.
 
 -- The data is captured using the .php file and written into mydata.txt file.
 
