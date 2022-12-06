@@ -1,4 +1,4 @@
-####################Final year project on Openstack platform.
+###################Final year project on Openstack platform.
 
 -- This repo contains all the files used for building the Signup page for the users to signup on the Openstack Cloud Platform in a approapriate way.
 
